@@ -1,2 +1,4 @@
 # Grid_solvers_MPI
-Στόχος της παρούσας εργασιάς ήταν η ανάπτυξη κώδικα σε C/MPI για την επίλυση της εξίσωσης Laplace σε διακριτοποιημένο τετραγωνικό χωρίο μέσω τον μεθόδων Jacobi, Gauss-Seidel SOR και Red-Black SOR. Με βάση τον αρχικό σειριακό κώδικα που μας παραδόθηκε αναπτύχθηκαν οι παράλληλες εκδοχές και των τριών μεθόδων.
+In this project the Laplace equation is solved in a tesselated square area using three different methods (Jacobi, Gauss-Seidel SOR and Red-Black SOR). 
+
+The serial basis was provided by the tutors of the parallel systems course (NTUA electrical engineering department - 2015)
